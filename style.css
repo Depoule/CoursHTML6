@@ -1,0 +1,13 @@
+.rectanglevert
+{
+  background: green;
+  width: 100%;
+  height: 25px;
+}
+.rectanglebleu
+{
+  background: blue;
+  width: 25%;
+  height: 25px;
+  float: right;
+}
