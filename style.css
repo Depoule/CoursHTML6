@@ -1,13 +1,70 @@
-.rectanglevert
+.ligneverte
 {
-  background: green;
-  width: 100%;
-  height: 25px;
+  background: #2ECC71;
+  width: 75%;
+  height: 30px;
+  float: left;
 }
-.rectanglebleu
+.lignebleue
 {
-  background: blue;
+  background: #2980B9;
   width: 25%;
-  height: 25px;
+  height: 30px;
   float: right;
+}
+.lignerouge
+{
+  background: #E74C3C;
+  width: 40%;
+  height: 80px;
+  float: left;
+}
+.lignegold
+{
+  background: #E67E22;
+  width: 30%;
+  height: 40px;
+  float: left;
+}
+.lignegrise
+{
+  background: #95A5A6;
+  width: 30%;
+  height: 40px;
+  float: right;
+}
+.lignejaune
+{
+  background: #F39C12;
+  width: 20%;
+  height: 40px;
+  float: left;
+}
+.ligneturquoise
+{
+  background: #16A085;
+  width: 20%;
+  height: 40px;
+  float: left;
+}
+.ligneorange
+{
+  background: #D35400;
+  width: 20%;
+  height: 40px;
+  float: right;
+}
+.lignenavy
+{
+  background: #2C3E50;
+  width: 100%;
+  height: 80px;
+  float: left;
+}
+.ligneblanche
+{
+  background: white;
+  width: 100%
+  heigh: 100px;
+  float: left;
 }
