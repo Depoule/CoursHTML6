@@ -1,70 +1,47 @@
-.ligneverte
-{
-  background: #2ECC71;
-  width: 75%;
-  height: 30px;
+div{
   float: left;
+  height: 50px;
 }
-.lignebleue
-{
-  background: #2980B9;
-  width: 25%;
-  height: 30px;
-  float: right;
+.block1{
+  width: 80%;
+  background-color: #2ECC71;
 }
-.lignerouge
-{
-  background: #E74C3C;
-  width: 40%;
-  height: 80px;
-  float: left;
-}
-.lignegold
-{
-  background: #E67E22;
-  width: 30%;
-  height: 40px;
-  float: left;
-}
-.lignegrise
-{
-  background: #95A5A6;
-  width: 30%;
-  height: 40px;
-  float: right;
-}
-.lignejaune
-{
-  background: #F39C12;
+.block2{
   width: 20%;
-  height: 40px;
-  float: left;
+  background-color: #2980B9;
 }
-.ligneturquoise
-{
-  background: #16A085;
-  width: 20%;
-  height: 40px;
-  float: left;
+.block3{
+  width: 34%;
+  height: 150px;
+  background-color: #E74C3C;
 }
-.ligneorange
-{
-  background: #D35400;
-  width: 20%;
-  height: 40px;
-  float: right;
+.block4{
+ width: 33%;
+ height: 75px;
+ background-color: #E67E22;
 }
-.lignenavy
-{
-  background: #2C3E50;
+.block5{
+  width: 33%;
+  height: 75px;
+  background-color: #95A5A6;
+}
+.block6{
+  width: 22%;
+  height: 75px;
+  background-color: #F39C12;
+}
+.block7{
+  width: 22%;
+  height: 75px;
+  background-color: #16A085;
+}
+.block8{
+  width: 22%;
+  height: 75px;
+  background-color: #D35400;
+}
+.block9{
   width: 100%;
-  height: 80px;
-  float: left;
-}
-.ligneblanche
-{
-  background: white;
-  width: 100%
-  heigh: 100px;
-  float: left;
+  height: 200px;
+  background-color: #2C3E50;
 }
